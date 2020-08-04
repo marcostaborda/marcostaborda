@@ -1,6 +1,8 @@
+<img width="auto" src="https://raw.githubusercontent.com/marcostaborda/marcostaborda/master/banner.jpg">
+
 # Marcos Taborda
 
-## Olá pessoal 👋
+## Hi 👋
 Sou programador desde 2007 apaixonado por novas tecnologias, sempre empenhado em aprender.
 
 
