@@ -14,9 +14,6 @@ Sou um FullStack Developer :computer:
  <br/> :blush: &nbsp; Tenho conhecimento também em stacks utilizando: Laravel PHP com MySql, Postgresql e Vuejs, WebForms com Jquery e Sql Server.
  <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games Apex Legends, COD e seriados no Netflix.
  <br/> 📩 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MarcosTaborda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tabordamarcos/)](https://www.linkedin.com/in/tabordamarcos/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-marcos.tabordamail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.tabordamail@gmail.com)](mailto:marcos.tabordamail@gmail.com)
-<br/>
 <br/>
 ![Marcos Taborda github stats](https://github-readme-stats.vercel.app/api?username=marcostaborda&count_private=true&show_icons=true&theme=dark&hide=stars)
 
