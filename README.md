@@ -6,7 +6,7 @@
 Iniciei com programação em 2008 apaixonado por novas tecnologias, sempre empenhado em aprender, também tenho formação em Sistemas para Internet pelo Instituto Federal de Porto Alegre.
 
 
-Sou um FullStack Developer :computer:
+FullStack Developer :computer:
 
  :rocket: &nbsp; Atualmente trabalho com freelancer e no serviço público.
  <br/> :purple_heart: &nbsp; Busco sempre estar me atualizando na programação, aprendendo novas técnicas, fazendo cursos e lendo artigos.
