@@ -3,7 +3,7 @@
 # Marcos Taborda
 
 ## Hi 👋
-Iniciei com programação em 2008 apaixonado por novas tecnologias, sempre empenhado em aprender, também tenho formação em Sistemas para Internet pelo Instituto Federal de Porto Alegre.
+Estou no mundo da programação a +10 anos apaixonado por novas tecnologias, sempre empenhado em aprender, também tenho formação em Sistemas para Internet pelo Instituto Federal de Porto Alegre.
 
 
 FullStack Developer :computer:
