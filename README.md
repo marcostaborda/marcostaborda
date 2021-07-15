@@ -16,10 +16,17 @@ FullStack Developer :computer:
  <br/> 📩 &nbsp; Entre em contato comigo: 
  
  [![Linkedin Badge](https://img.shields.io/badge/-MarcosTaborda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tabordamarcos/)](https://www.linkedin.com/in/tabordamarcos/) 
+ 
+ <a href="https://app.rocketseat.com.br/me/marcos-taborda" target="_blank"><img src="https://user-images.githubusercontent.com/15224426/125720569-83c01797-41bd-4235-bd97-1328adc50532.png" width="115px;"/></a>
 <br/>
 
 
 ![Marcos Taborda github stats](https://github-readme-stats.vercel.app/api?username=marcostaborda&count_private=true&show_icons=true&theme=dark&hide=stars)
 
 ![Marcos Taborda TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcostaborda&layout=compact)
+
+| [<img src="https://avatars.githubusercontent.com/u/15224426?v=4?s=460&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="75px;"/>](https://app.rocketseat.com.br/me/marcos-taborda) |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                             [Marcos Taborda](https://github.com/marcostaborda)                                                             |
+
 
