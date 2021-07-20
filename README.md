@@ -24,9 +24,3 @@ FullStack Developer :computer:
 ![Marcos Taborda github stats](https://github-readme-stats.vercel.app/api?username=marcostaborda&count_private=true&show_icons=true&theme=dark&hide=stars)
 
 ![Marcos Taborda TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcostaborda&layout=compact)
-
-| [<img src="https://avatars.githubusercontent.com/u/15224426?v=4?s=460&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="75px;"/>](https://app.rocketseat.com.br/me/marcos-taborda) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                             [Marcos Taborda](https://github.com/marcostaborda)                                                             |
-
-
