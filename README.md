@@ -8,10 +8,10 @@ Estou no mundo da programação a +10 anos apaixonado por novas tecnologias, sem
 
 FullStack Developer :computer:
 
- :rocket: &nbsp; Atualmente trabalho com freelancer e no serviço público.
+ :rocket: &nbsp; Atualmente trabalho como dev front end na Ambev Tech ❤.
  <br/> :purple_heart: &nbsp; Busco sempre estar me atualizando na programação, aprendendo novas técnicas, fazendo cursos e lendo artigos.
  <br/> 💻 &nbsp; Minha stack atual: Node.js, ReactJS, React Native & Typescript.
- <br/> :blush: &nbsp; Tenho conhecimento também em stacks utilizando: Laravel PHP com MySql, Postgresql e Vuejs, WebForms com Jquery e Sql Server.
+ <br/> :blush: &nbsp; Já trabalhei com: Laravel PHP com MySql, Postgresql e Vuejs, WebForms com Jquery e Sql Server.
  <br/> 💬 &nbsp; Sobre mim: Curto tecnologias, games Apex Legends, COD, CrossFit e seriados no Netflix.
  <br/> 📩 &nbsp; Entre em contato comigo: 
  
